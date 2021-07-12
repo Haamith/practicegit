@@ -2,7 +2,7 @@ class Hello
 {
 public static void main(String args[])
 {
-System.out.println("making chages");
+System.out.println("third commit ,changing author information");
 }
 }
 
